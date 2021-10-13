@@ -1,5 +1,20 @@
 #!python3
  
+print("enter your amount")
+a = input()
+print("enter your rate")
+b = input()
+print("enter the number of says in the month")
+c = input()
+
+g = b * 100
+
+d = float(a)*float(g)*float(c)
+
+e = d/365
+print(e)
+
+
 """
 ##### Task 1
 The bank calculates the amount of interest you earn using the simple interest formula:
