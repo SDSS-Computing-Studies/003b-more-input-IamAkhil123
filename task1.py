@@ -12,7 +12,7 @@ g = b * 100
 d = float(a)*float(g)*float(c)
 
 e = d/365
-print(e)
+print float(e)
 
 
 """
