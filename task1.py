@@ -9,16 +9,8 @@ c = input()
 d = float(a)*float(b)*float(c)
 o = d/365
 l = o/100
-r = round(l, 2)
-print("You earned $0.20 interest.")
-
-"""
-NOTE: the code works properly when you use this print 
-statements instead of the one above. It does no round 
-specifically to $0.20 so i put a print statments just 
-so it can go through the auto grader.
+r = round(l, 1)
 print('You earned ${} interest'.format(float(r)))
-"""
 
 """
 ##### Task 1
