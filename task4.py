@@ -11,14 +11,7 @@ j = input("enter an ADVERB")
 k = input("enter an FOOD")
 l = input("enter an THINGS")
 
-print("Today we picked apple from",str(a),"Orchard."
-"I had no idea there were so many different varieties of apples."
-"I ate",str(b),"apples straight off the tree that tasted like",str(d),"."
-"Then there was a",str(e),"apple that looked like a",str(g),"."
-"When our bag was full, we went on a free hay ride to",print(h),"and back."
-"It ended at a hay pile where we got to",str(i),str(j),"."
-"I can hardly wait to get home and cook with the apples." 
-"We are going to make apple",str(k),"and",str(l),"pies!")
+print("Today we picked apple from",str(a),"Orchard.""I had no idea there were so many different varieties of apples.""I ate",str(b),"apples straight off the tree that tasted like",str(d),".""Then there was a",str(e),"apple that looked like a",str(g),".""When our bag was full, we went on a free hay ride to",print(h),"and back.""It ended at a hay pile where we got to",str(i),str(j),".""I can hardly wait to get home and cook with the apples." "We are going to make apple",str(k),"and",str(l),"pies!")
 
 """
 Assignment 5:
