@@ -10,7 +10,7 @@ d = float(a)*float(b)*float(c)
 o = d/365
 l = o/100
 r = round(l, 1)
-print('You earned ${} interest'.format(float(r)))
+print('You earned ${} interest.'.format(float(r)))
 
 """
 ##### Task 1
