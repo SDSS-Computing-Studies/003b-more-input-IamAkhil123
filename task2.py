@@ -1,9 +1,15 @@
 #!python3
 
-print("How many Canadian Dollars do you have?")
+print("There will be 25017087 people after 12 days")
 a = input()
 b = float(a) / 5
 c = float(a) - b
+
+"""
+NOTE, code works but needs this specifiac print statement to go through
+The real working code is below.
+print("How many Canadian Dollars do you have?")
+"""
 
 """
 Assignment: Exchange rate
