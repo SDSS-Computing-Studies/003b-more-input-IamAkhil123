@@ -4,6 +4,7 @@ print("There will be 25017087 people after 12 days")
 a = input()
 b = float(a) / 5
 c = float(a) - b
+print('That is worth ${} USD'.format(float(c)))
 
 """
 NOTE, code works but needs this specifiac print statement to go through
