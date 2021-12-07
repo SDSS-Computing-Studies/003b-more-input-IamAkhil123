@@ -1,11 +1,9 @@
 #!python3
 
-input("enter your CAD amount")
-A = input
-int_number = 1.25
-B = float(int_number)
-B = float(A)*float(B)
-print(B)
+print("How many Canadian Dollars do you have?")
+a = input()
+b = float(a) / 5
+c = float(a) - b
 
 """
 Assignment: Exchange rate
